@@ -91,45 +91,11 @@
 
 <td width="50%" valign="top">
 
-## 🚀 Projects
-
-### ⛽ Pertashop POS
-
-> Web-based ordering & Point of Sale system
-
-**Features**
-- 🛒 Online BBM ordering
-- ⛽ BBM product management
-- 📦 Stock management
-- 💳 Transaction management
-- 🧾 Point of Sale
-- 👤 Customer management
-
-<br>
-
-### 🧠 Personal Projects
-
-> Small projects, experiments, assignments,  
-> and random things built while learning.
-
-<br>
-
-
-BUILD → BREAK → DEBUG → LEARN → REPEAT 🔄
-
-</td> <td width="50%" valign="top">
-
-🎮 Current Status
-
-<table> <tr> <td>💻 Coding</td> <td width="55%"> <progress value="70" max="100"></progress> </td> <td><b>70%</b></td> </tr> <tr> <td>🇯🇵 Japanese</td> <td> <progress value="40" max="100"></progress> </td> <td><b>40%</b></td> </tr> <tr> <td>🎸 Guitar</td> <td> <progress value="50" max="100"></progress> </td> <td><b>50%</b></td> </tr> <tr> <td>🎮 Mobile Legends</td> <td> <progress value="80" max="100"></progress> </td> <td><b>80%</b></td> </tr> <tr> <td>🎬 Anime</td> <td> <progress value="100" max="100"></progress> </td> <td><b>100%</b></td> </tr> <tr> <td>☕ Coffee</td> <td> <progress value="90" max="100"></progress> </td> <td><b>90%</b></td> </tr> </table> </td> </tr> </table>
-```
-
 <!-- ANIME CORNER -->
 <div align="center">
 
-# 🎬 Anime Corner
 
-### ⭐ My Favorite Anime
+###  Favorite Anime
 
 ## 🟦 Tensei Shitara Slime Datta Ken
 
@@ -145,3 +111,4 @@ BUILD → BREAK → DEBUG → LEARN → REPEAT 🔄
 </div>
 
 ---
+

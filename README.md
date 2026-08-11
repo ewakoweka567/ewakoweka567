@@ -60,11 +60,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ewakwoweka567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
+## 📊 GitHub Stats
 
-<br>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=ewakwoweka567&theme=tokyonight&hide_border=true" width="100%">
+<img src="https://streak-stats.demolab.com/?user=ewakwoweka567&theme=tokyonight&hide_border=true&border_radius=10" width="90%">
 
 </div>
 

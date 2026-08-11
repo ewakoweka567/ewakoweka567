@@ -60,9 +60,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com/?user=ewakwoweka567&theme=tokyonight&hide_border=true&border_radius=10" width="90%">
+<img src="https://ghstats.dev/api/card?username=ewakoweka567&theme=tokyonight&show_icons=true&show_ring=true&hide_border=true" width="100%">
 
 </div>
 

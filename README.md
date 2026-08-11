@@ -6,17 +6,20 @@
 
 <br>
 
-<a href="https://github.com/ewakwoweka567">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/ewakoweka5677">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+<a href="https://www.instagram.com/other_leaf/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+<a href="https://www.youtube.com/@erlanggadwi-jr5or">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+
+<a href="https://www.tiktok.com/@asep_tambalban2">
+  <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
 </div>

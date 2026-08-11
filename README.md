@@ -12,21 +12,19 @@
 
 ##  About Me
 
-```text
-👨‍💻 Currently learning programming
-🎓 Working on my thesis
-🇯🇵 Learning Japanese
-🎸 Learning guitar
-🎮 Gaming enjoyer
-🧠 Trying to level up my brain every day
+<details open>
+<summary><b>👨‍💻 Who am I?</b></summary>
 
-Status:
+<br>
 
-> Still learning...
-> Still growing...
-> Still confused sometimes... 💀
-```
+I'm a developer in progress who enjoys learning new things,
+building random projects, and occasionally questioning why my code works. 💀
 
+</details>
+
+<br>
+
+<details>
 ---
 
 ## 💻 Tech Stack

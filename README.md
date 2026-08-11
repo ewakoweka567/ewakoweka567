@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi There! I'm Ewaka
+# 👋 Hi There! I'm Erlangga Dwi Cahyo
 
 ### 💻 Developer in Progress • 🇯🇵 Japanese Learner • 🎸 Guitar Enjoyer • 🎮 Gamer
+
+#### I can understand 500 lines of code... until I realize I haven't committed anything💀
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F778BA&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+GitHub!;Currently+leveling+up...;Coding+%7C+Japanese+%7C+Guitar+%7C+Gaming;Still+learning%2C+still+growing+%E2%9C%A8" />
 
@@ -138,18 +140,16 @@ Build → Break → Debug → Learn
 ## 🎮 Current Status
 
 ```text
-╭────────────────────────────╮
-│        PLAYER STATUS        │
-├────────────────────────────┤
-│                            │
-│ 💻 Coding       ███████░░░ │
-│ 🇯🇵 Japanese    ████░░░░░░ │
-│ 🎸 Guitar       ███░░░░░░░ │
-│ 🎮 Gaming       ██████░░░░ │
-│ 🧠 Brain        █████░░░░░ │
-│ ☕ Coffee       ██████████ │
-│                            │
-╰────────────────────────────╯
+╭────────────────────────────────────────────╮
+│             🎮  STATUS                     │
+├────────────────────────────────────────────┤
+│ 💻 Coding        ███████░░░ 70%            │
+│ 🇯🇵 Japanese      ████░░░░░░ 40%            │
+│ 🎸 Guitar         █████░░░░░ 50%            │
+│ 🎮 Mobile Legends ████████░░ 80%            │
+│ 🎬 Anime          ██████████ 100%           │
+│ ☕ Coffee         █████████░ 90%            │
+└────────────────────────────────────────────┘
 ```
 
 ### 🧠 Brain.exe
@@ -192,99 +192,16 @@ Build → Break → Debug → Learn
 
 ---
 
-## 📚 More About Me
-
 <details>
-<summary><b>🎓 Education & Learning</b></summary>
+<summary>🎬 My Anime Corner</summary>
 
 <br>
 
-I'm currently focusing on improving my programming skills
-while working on my thesis.
+### ⭐ Favorite Anime
 
-My current priorities:
+**Tensei Shitara Slime Datta Ken**  
+> Rimuru supremacy. 💙
 
-- 📖 Finish my thesis
-- 💻 Improve programming fundamentals
-- 🌐 Build more web projects
-- 🎨 Improve UI/UX skills
-- 🇯🇵 Learn Japanese consistently
-- 🎸 Improve guitar skills
+More anime I'm watching / planning to watch...
 
 </details>
-
-<br>
-
-<details>
-<summary><b>🎮 Hobbies & Interests</b></summary>
-
-<br>
-
-🎮 Gaming &nbsp;&nbsp; 🎸 Guitar &nbsp;&nbsp; 🇯🇵 Japanese  
-💻 Programming &nbsp;&nbsp; 🎨 UI/UX &nbsp;&nbsp; ☕ Coffee
-
-</details>
-
-<br>
-
-<details>
-<summary><b>💭 Random Facts</b></summary>
-
-<br>
-
-- 💻 I enjoy learning by actually building things.
-- 🎸 Currently trying to get better at guitar.
-- 🇯🇵 Slowly learning Japanese.
-- 🎮 Gaming is one of my ways to relax.
-- 🧠 Sometimes I understand the code.
-- 💀 Sometimes the code understands me.
-
-</details>
-
----
-
-## 📈 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewakwoweka567&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="https://github.com/ewakwoweka567">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ewakwoweka567&style=for-the-badge&color=F778BA&label=PROFILE+VIEWS">
-
-<br><br>
-
-### 🌸 Thanks for visiting my profile!
-
-*"Still learning. Still growing. Still figuring things out."* ✨
-
-</div>

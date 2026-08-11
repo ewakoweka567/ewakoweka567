@@ -2,10 +2,6 @@
 
 # 👋 Hi There! I'm Erlangga Dwi Cahyo
 
-### 💻 Developer in Progress • 🇯🇵 Japanese Learner • 🎸 Guitar Enjoyer • 🎮 Gamer
-
-#### I can understand 500 lines of code... until I realize I haven't committed anything💀
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F778BA&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+GitHub!;Currently+leveling+up...;Coding+%7C+Japanese+%7C+Guitar+%7C+Gaming;Still+learning%2C+still+growing+%E2%9C%A8" />
 
 <br>

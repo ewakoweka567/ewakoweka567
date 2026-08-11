@@ -97,111 +97,55 @@
 
 ## 🚀 Projects
 
-<details>
-<summary><b>⛽ Pertashop POS</b></summary>
+### ⛽ Pertashop POS
 
-<br>
+> Web-based ordering & Point of Sale system
 
-Web-based **Pertashop ordering and Point of Sale system**.
-
-**Features:**
-
-- 🛒 Online ordering
+**Features**
+- 🛒 Online BBM ordering
 - ⛽ BBM product management
 - 📦 Stock management
 - 💳 Transaction management
 - 🧾 Point of Sale
 - 👤 Customer management
 
-</details>
+<br>
+
+### 🧠 Personal Projects
+
+> Small projects, experiments, assignments,  
+> and random things built while learning.
 
 <br>
 
-<details>
-<summary><b>🧠 Personal Projects</b></summary>
+
+BUILD → BREAK → DEBUG → LEARN → REPEAT 🔄
+
+</td> <td width="50%" valign="top">
+
+🎮 Current Status
+
+<table> <tr> <td>💻 Coding</td> <td width="55%"> <progress value="70" max="100"></progress> </td> <td><b>70%</b></td> </tr> <tr> <td>🇯🇵 Japanese</td> <td> <progress value="40" max="100"></progress> </td> <td><b>40%</b></td> </tr> <tr> <td>🎸 Guitar</td> <td> <progress value="50" max="100"></progress> </td> <td><b>50%</b></td> </tr> <tr> <td>🎮 Mobile Legends</td> <td> <progress value="80" max="100"></progress> </td> <td><b>80%</b></td> </tr> <tr> <td>🎬 Anime</td> <td> <progress value="100" max="100"></progress> </td> <td><b>100%</b></td> </tr> <tr> <td>☕ Coffee</td> <td> <progress value="90" max="100"></progress> </td> <td><b>90%</b></td> </tr> </table> </td> </tr> </table>
+```
+
+<!-- ANIME CORNER -->
+<div align="center">
+
+# 🎬 Anime Corner
+
+### ⭐ My Favorite Anime
+
+## 🟦 Tensei Shitara Slime Datta Ken
+
+**Rimuru Tempest supremacy. 💙**
+
+`Anime` • `Fantasy` • `Isekai` • `Adventure`
 
 <br>
 
-A collection of experiments, assignments,
-and random things I'm building while learning.
+> 🌟 One of my favorite anime because of the world-building,
+> characters, comedy, and of course... **Rimuru.**
 
-```text
-Build → Break → Debug → Learn
-                 ↓
-              Repeat 🔄
-```
-
-</details>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎮 Current Status
-
-```text
-╭────────────────────────────────────────────╮
-│             🎮  STATUS                     │
-├────────────────────────────────────────────┤
-│ 💻 Coding        ███████░░░ 70%            │
-│ 🇯🇵 Japanese      ████░░░░░░ 40%            │
-│ 🎸 Guitar         █████░░░░░ 50%            │
-│ 🎮 Mobile Legends ████████░░ 80%            │
-│ 🎬 Anime          ██████████ 100%           │
-│ ☕ Coffee         █████████░ 90%            │
-└────────────────────────────────────────────┘
-```
-
-### 🧠 Brain.exe
-
-<details>
-<summary><b>Click to check system status</b></summary>
-
-<br>
-
-```text
-[████████████████████] 100%
-
-> Starting Brain.exe...
-> Loading motivation...
-> Loading coffee...
-> Loading programming skills...
-
-> System running...
-
-> Error:
-> Why is it not working? 💀
-
-> Searching Google...
-> Searching GitHub...
-> Searching Stack Overflow...
-
-> Problem solved! ✨
-
-> New problem detected...
-
-> 💀
-```
-
-</details>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
-
-<details>
-<summary>🎬 My Anime Corner</summary>
-
-<br>
-
-### ⭐ Favorite Anime
-
-**Tensei Shitara Slime Datta Ken**  
-> Rimuru supremacy. 💙
-
-More anime I'm watching / planning to watch...
-
-</details>

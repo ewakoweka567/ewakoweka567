@@ -1,120 +1,137 @@
+## 🎀 About Me
+
 <div align="center">
 
-# 🌸 Hello, I'm Erlangga Dwi Cahyo! 👋
-
-### 💻 Developer in Progress • 🇯🇵 Japanese Learner • 🎸 Guitar Enjoyer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F778BA&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub!;Currently+leveling+up...;Coding+%7C+Japanese+%7C+Guitar+%7C+Life;Trying+to+become+a+better+version+of+myself+%E2%9C%A8" alt="Typing SVG">
-
-</div>
-
----
-
-##  About Me
-
 <details open>
-<summary><b>👨‍💻 Who am I?</b></summary>
+<summary><h3>👨‍💻 Who Am I?</h3></summary>
 
 <br>
 
-I'm a developer in progress who enjoys learning new things,
-building random projects, and occasionally questioning why my code works. 💀
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌸 Ewaka
+
+**Developer in Progress**
+
+💻 Currently learning programming  
+🎓 Working on my thesis  
+🌱 Always trying to improve  
+🧠 Learning something new every day
+
+</td>
+
+<td align="center" width="50%">
+
+### ✨ My Personality
+
+🎮 Gaming Enjoyer  
+🎸 Guitar Enjoyer  
+🇯🇵 Japanese Learner  
+☕ Coffee Powered  
+💀 Professional Bug Creator
+
+</td>
+</tr>
+</table>
+
+<br>
 
 </details>
 
+<details>
+<summary><h3>📚 Currently Learning</h3></summary>
+
 <br>
 
+<table>
+<tr>
+<th>Skill</th>
+<th>Level</th>
+<th>Progress</th>
+</tr>
+
+<tr>
+<td>💻 Programming</td>
+<td>Intermediate</td>
+<td>███████░░░ 70%</td>
+</tr>
+
+<tr>
+<td>🌐 Web Development</td>
+<td>Intermediate</td>
+<td>██████░░░░ 60%</td>
+</tr>
+
+<tr>
+<td>🇯🇵 Japanese</td>
+<td>Beginner</td>
+<td>████░░░░░░ 40%</td>
+</tr>
+
+<tr>
+<td>🎸 Guitar</td>
+<td>Beginner</td>
+<td>███░░░░░░░ 30%</td>
+</tr>
+
+<tr>
+<td>🎨 UI/UX</td>
+<td>Learning</td>
+<td>█████░░░░░ 50%</td>
+</tr>
+
+</table>
+
+<br>
+
+</details>
+
 <details>
----
+<summary><h3>🎮 Interests & Hobbies</h3></summary>
 
-## 💻 Tech Stack
+<br>
 
-### Languages
+<table>
+<tr>
+<td align="center">💻<br><b>Programming</b><br><sub>Building & experimenting</sub></td>
+<td align="center">🎸<br><b>Guitar</b><br><sub>Learning new songs</sub></td>
+<td align="center">🇯🇵<br><b>Japanese</b><br><sub>Learning little by little</sub></td>
+</tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java" />
-</p>
+<tr>
+<td align="center">🎮<br><b>Gaming</b><br><sub>Sometimes too much 💀</sub></td>
+<td align="center">🎨<br><b>UI/UX</b><br><sub>Exploring design</sub></td>
+<td align="center">🧠<br><b>Learning</b><br><sub>Random things everyday</sub></td>
+</tr>
+</table>
 
-### Tools & Technologies
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,laravel" />
-</p>
+</details>
 
----
+<details>
+<summary><h3>🎓 Current Status</h3></summary>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ewakwoweka567&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewakwoweka567&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ewakwoweka567&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-| Skill | Progress |
-|---|---|
-| 💻 Programming | ███████░░░ 70% |
-| 🌐 Web Development | ██████░░░░ 60% |
-| 🇯🇵 Japanese | ████░░░░░░ 40% |
-| 🎸 Guitar | ███░░░░░░░ 30% |
-
----
-
-## 🎮 Current Mood
+<br>
 
 ```text
-HP          : ████████░░ 80%
-Energy      : █████░░░░░ 50%
-Motivation  : ███████░░░ 70%
-Coffee      : ██████████ 100%
-
-Brain.exe:
-
-> Running...
-> Running...
-> Why is it not working? 💀
-```
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="https://github.com/ewakwoweka567">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-🌸 **Thanks for visiting my profile!** 🌸
-
-</div>
+╔══════════════════════════════════════════╗
+║              CURRENT STATUS               ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  👨‍💻 Programming     →  Learning         ║
+║  🎓 Thesis          →  In Progress      ║
+║  🇯🇵 Japanese        →  Beginner         ║
+║  🎸 Guitar           →  Beginner         ║
+║  💻 Projects         →  Building         ║
+║  🧠 Brain            →  Loading...       ║
+║                                          ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  > Still learning...                     ║
+║  > Still growing...                      ║
+║  > Still confused sometimes... 💀        ║
+║                                          ║
+╚══════════════════════════════════════════╝
